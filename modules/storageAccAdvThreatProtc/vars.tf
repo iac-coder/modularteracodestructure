@@ -1,0 +1,4 @@
+
+variable "enableAdvThreatProt" {
+    type      = bool
+}
